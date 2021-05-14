@@ -1,0 +1,29 @@
+ - Artes / Sprites.
+ - Start Menu/Pause/Game Over.
+ - Animação.
+ - Controles (teclado).
+ - Shooting.
+ - Editor de mapa.
+ - Leveis.
+ - Inimigos.
+ - Boss Battle.
+ - Coletar itens.
+ - Sistema de dano.
+ - Modificadores de status (Ex: +Attack).
+ - Save/Load.
+ - Áudio.
+ 
+ ECS
+ https://en.wikipedia.org/wiki/Entity_component_system
+ 
+ https://qiao.github.io/PathFinding.js/visual/
+ 
+ 2021
+ Sistema de Dano  V
+ UI V
+ Interação com itens V
+ projeteis + colisão com inimigos  V
+ alternancia de mapas (c/ condição) V
+ menu(opções predefinidas?) V
+ som(multi threads) V
+ save/load V
